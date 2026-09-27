@@ -1,4 +1,4 @@
-# 📡 StreamingTelemetry-MCP: Model Context Protocol Server
+# 📡 Streaming Telemetry MCP: Model Context Protocol Server
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)
 ![Protocol](https://img.shields.io/badge/Protocol-Anthropic_MCP_2024--11--05-blueviolet?style=flat)
